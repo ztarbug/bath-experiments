@@ -4,3 +4,6 @@ This repo contains several VW2 experiments. See each folder for a technical desc
 
 # detector
 Folder contains code to stream vw videos while implementing yolov7 for inferences. ONNX model implementation of yolov7 from ibaiGorordo is used (https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)
+
+# recorder
+Simple example that demonstrates how to grab video streams from VW² camera service. More details can be found [here](recorder/README.md)
