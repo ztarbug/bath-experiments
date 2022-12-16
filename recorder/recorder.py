@@ -84,7 +84,7 @@ def prompt_number(default: int) -> int:
         print('Invalid number! Aborting...')
         exit()
 
-
+#TODO
 parser = argparse.ArgumentParser(description='Record stream from CameraService', epilog='All options that are not specified but necessary will be prompted for.')
 parser.add_argument('-c', '--camera-id', type=int, help='Camera id within CameraService')
 parser.add_argument('-t', '--record-length', type=int, help='Record length in seconds')
