@@ -3,3 +3,4 @@ opencv-python-headless
 grpcio
 icvproto
 python-keycloak
+opencv-python==4.2.0.32
